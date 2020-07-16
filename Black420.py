@@ -82,13 +82,13 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRocky
 \033[1;96mInstagram \033[1;93m: \033[1;92mRocky_007008
-\033[1;96mFacebook  \033[1;93m: \033[1;92m ItZyourBaap.ROCKY
+\033[1;96mFacebook  \033[1;93m: \033[1;92mItZyourBaap.ROCKY
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ROCKY007008/Rocky_007
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "Rocky007"
-CorrectPassword = "Rocky007"
+CorrectPassword = "Rocky008"
 
 loop = 'true'
 while (loop == 'true'):
